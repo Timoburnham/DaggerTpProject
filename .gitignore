@@ -1,0 +1,35 @@
+# Unreal Engine gitignore
+
+# Build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled
+*.exe
+*.dll
+*.app
+*.dylib
+*.so
+*.apk
+*.ipa
